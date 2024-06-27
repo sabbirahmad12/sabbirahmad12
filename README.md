@@ -10,6 +10,7 @@
 <br />
 
 - 🔭 I’m currently Studying **Computer Science Engineer**
+- 👨‍💻 All of my projects are available at [https://linktr.ee/sabbir_ahmad_42](https://linktr.ee/sabbir_ahmad_42)
 - 📫 How to reach me **sabbir421976@gmail.com**
 - ⚡ Fun fact **I think I am Funny**
 
@@ -24,8 +25,8 @@
 
 
 
-
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools:
+<!--<h1 align="left">Languages and Tools:</h1>-->
 
 <br />
 
