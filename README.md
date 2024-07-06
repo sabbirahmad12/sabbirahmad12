@@ -151,7 +151,7 @@
 
 - 📖 **&nbsp;Dakhil**\
 📆 &nbsp;2022 - 2023\
-📍 **&nbsp;Sagordi Islamia Kamil Madrasha** - Gournadi, Barishal, Bangladesh
+📍 **&nbsp;Sagordi Islamia Kamil Madrasha** - Barishal, Bangladesh
 </details>
 <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
