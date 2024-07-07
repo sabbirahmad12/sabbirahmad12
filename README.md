@@ -7,16 +7,33 @@
 
 <h1 align="center">Hi 👋, I'm Md Sabbir Ahmad <img
     src="https://i.ibb.co/NF034fM/p3.gif" width="50"/></h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h2 align="center">A Passionate Frontend Developer From Bangladesh</h2>
+
+
+<img align="left" alt="coding" width="400" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" radius= 100px;>
+
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952ywbn0h1smt3yl56yf5ao00pf2zy8qlpdiap4tupv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" radius= 100px;>
+
 
 <br>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952ywbn0h1smt3yl56yf5ao00pf2zy8qlpdiap4tupv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" radius= 100px;>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirahmad12&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirahmad12" /> </p>
 
 
-<h3 align="left"> 💻 Primary Info</h3>
+<h1 align="left"> 💻 Primary Info</h1>
 
 - 🔭 I’m currently Studying **Computer Science Engineer**
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sabbir_ahmad_42](https://linktr.ee/sabbir_ahmad_42)
@@ -139,15 +156,15 @@
 <h1 align="left"> 👨‍🎓 Education</h1><br/>
 <details open>
 <summary style="font-size:1.5em;">📃 &nbsp;Academic Qualification</summary>
-<br>
 
-<!--<img align="right" width="70px" src="https://i.ibb.co/58V22Zs/university.png" />-->
+
+<img align="right" width="70px" src="https://github.com/sabbirahmad12/sabbirahmad12/blob/main/%E0%A6%AC%E0%A6%B0%E0%A6%BF%E0%A6%B6%E0%A6%BE%E0%A6%B2_%E0%A6%AA%E0%A6%B2%E0%A6%BF%E0%A6%9F%E0%A7%87%E0%A6%95%E0%A6%A8%E0%A6%BF%E0%A6%95_%E0%A6%87%E0%A6%A8%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%89%E0%A6%9F.png" />
 
 - 📖 **&nbsp;Computer Science Technology**\
   📆 &nbsp;2024 - 2028 - Running\
   📍 **&nbsp;Barisal Polytechnic Institute** - Barishal, Bangladesh
 
-<!--<img align="right" width="70px" src="https://i.ibb.co/DgYdcFd/college.jpg" />-->
+
 
 - 📖 **&nbsp;Dakhil**\
 📆 &nbsp;2022 - 2023\
@@ -171,3 +188,5 @@
 <p align="center"> 
     <img width="30%" src="https://i.ibb.co/ZKjrDGx/Thanks.gif" />
 </p>
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
