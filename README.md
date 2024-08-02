@@ -50,7 +50,7 @@
 <a href="https://linkedin.com/in/md-sabbir-ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sabbir-ahmad" height="40" width="50" /></a>
 <a href="https://fb.com/sabbir.ahmad.46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sabbir.ahmad.46" height="40" width="50" /></a>
 <a href="https://instagram.com/sabbir_ahmad_46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabbir_ahmad_46" height="40" width="50" /></a>
-<a href="https://www.youtube.com/@sabbirahmd42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youyube.svg" alt="@sabbirahmd42" height="40" width="50" /></a>
+<a href="https://youtube.com/@sabbirahmd42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sabbirahmd42" height="40" width="50" /></a>
 </p>
 
 <br>
