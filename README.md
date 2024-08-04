@@ -1,37 +1,27 @@
-<!--![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=250&section=header)-->
-
-<img width="100%" height='2px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" /> 
 
 ![image](https://engineering.giphy.com/wp-content/uploads/2017/06/api.gif)
-<img width="100%" height='2px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" /> 
-
+ 
 <h1 align="center">Hi 👋, I'm Md Sabbir Ahmad <img
     src="https://i.ibb.co/NF034fM/p3.gif" width="50"/></h1>
-<h2 align="center">A Passionate Frontend Developer From Bangladesh</h2>
+<h2 align="center">A Passionate CS Student From Bangladesh</h2>
 
-
-<img align="left" alt="coding" width="400" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" radius= 100px;>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952ywbn0h1smt3yl56yf5ao00pf2zy8qlpdiap4tupv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" radius= 100px;>
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabbirahmad12&label=Profile%20views&color=0e75b6&style=flat" alt="sabbirahmad12" /> </p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <h1 align="left"> 💻 Primary Info</h1>
@@ -61,13 +51,13 @@
 
 <br />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,cs,py,nodejs,react,nextjs,sass,bootstrap,tailwind,git,github,vscode,figma,ps,pr,illustrator,)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,git,github,vscode,figma,ps,illustrator,)](https://skillicons.dev)
+                                <!--js,ts,c,cpp,cs,nodejs,react,nextjs,sass,bootstrap,tailwind,pr-->
 
 <br>
 
-# <img src="https://i.ibb.co/y8MrSw1/p15.webp" width="35"><b> Github Stats </b>
 
+# <img src="https://i.ibb.co/y8MrSw1/p15.webp" width="35"><b> Github Stats </b>
 <!--- stats & Trophy (start) -->
 
 <p align="center">
@@ -76,21 +66,17 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
   <br>
   <br>
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=sabbirahmad12&theme=radical&show_icons=true&count_private=true&include_all_commits=false" />
 
-  <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
   <br>
   <br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbirahmad12&theme=radical&hide_border=false" /> 
-  <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbirahmad12&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
-  <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 </td>
 
@@ -98,7 +84,8 @@
 
   <br>
   <img width="80%" align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sabbirahmad12&theme=radical" />
-   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+
+  <br>
   <br>
   <img width="80% "align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sabbirahmad12&theme=radical" />
   <br>
@@ -109,12 +96,12 @@
 </tr>
 
 </table>
-<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+
 <img width="100%"
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sabbirahmad12&theme=dark"
   alt="sabbirahmad12-Banner"
 />
- <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+
 
 
 <!--- stats (end) -->
@@ -142,7 +129,6 @@
 
 <br>
 
-<img width="100%" height='2px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <p align="center">
 <a href="" target="_blank"
   ><img width="100%"
@@ -151,7 +137,6 @@
     margin-right: 5px;
 /></a>
 </p>
-<img width="100%" height='2px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 <br>
 
@@ -172,7 +157,7 @@
 📆 &nbsp;2022 - 2023\
 📍 **&nbsp;Sagordi Islamia Kamil Madrasha** - Barishal, Bangladesh
 </details>
-<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+
 
 <br>
 
@@ -184,11 +169,11 @@
 <p align="center">
 <img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg"/> 
 </p>
-<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
-<br>
+
+<!--<br>
 <p align="center"> 
     <img width="30%" src="https://i.ibb.co/ZKjrDGx/Thanks.gif" />
-</p>
+</p>-->
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
