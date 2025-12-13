@@ -27,7 +27,7 @@
 <h1 align="left"> 💻 Primary Info</h1>
 
 - 🔭 I’m currently Studying **Computer Science Engineer**
-- 👨‍💻 All of my projects are available at [https://linktr.ee/sabbir_ahmad_42](https://linktr.ee/sabbir_ahmad_42)
+- 👨‍💻 All of my projects are available at [https://mdsabbirahmad.netlify.app/](https://mdsabbirahmad.netlify.app/)
 - 📫 How to reach me **sabbir421976@gmail.com**
 - 📝 I regularly write articles on [LinkedIn]
 - ⚡ Fun fact **I think I am Funny**
