@@ -3,7 +3,7 @@
  
 <h1 align="center">Hi 👋, I'm Md Sabbir Ahmad <img
     src="https://i.ibb.co/NF034fM/p3.gif" width="50"/></h1>
-<h2 align="center">A Passionate CS Student From Bangladesh</h2>
+<h2 align="center">A Passionate CSE Student From Bangladesh</h2>
 
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952ywbn0h1smt3yl56yf5ao00pf2zy8qlpdiap4tupv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" radius= 100px;>
